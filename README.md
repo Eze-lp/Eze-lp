@@ -9,7 +9,7 @@ FullStack Developer
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [ramirez.ezequielagustin@gmail.com](mailto:ramirez.ezequielagustin@gmail.com)
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on I'am open to collaborating on web applications.
+* 🤝  I'am open to collaborating on web applications.
 * ⚡  In my spare time I like to play video games.
 
 ### Skills
